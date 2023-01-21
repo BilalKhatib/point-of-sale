@@ -1,3 +1,3 @@
 <?php
 
-require views_path('home');
+views_path('home');
